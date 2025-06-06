@@ -1,6 +1,8 @@
-# PowerShell 兼容性配置分享包
+# PowerShell 兼容性配置
 
-一键解决 Windows PowerShell 终端环境问题的完整解决方案
+- 在Windows的Cursor中调用终端环境，经常出现兼容性错误，影响代码开发效率，主要原因是cursor默认使用了linux/Mac的编程风格。
+
+- 一键解决 Windows PowerShell 终端环境问题的完整解决方案。
 
 ## 🎯 解决的问题
 
