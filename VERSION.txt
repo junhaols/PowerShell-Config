@@ -1,0 +1,34 @@
+PowerShell配置分享包
+=====================
+
+版本: 1.0
+创建时间: 2025-06-06 15:30:00
+创建人: Junhao Luo
+联系方式: junhaol@mail.bnu.edu.cn
+
+包含文件:
+- PowerShell_Config_Installer.ps1  (自动安装脚本)
+- PowerShell_Profile_Fixed.ps1     (PowerShell配置文件)
+- README_PowerShell_Config_Share.md (详细说明文档)
+- INSTALL_GUIDE.md                 (安装指南)
+- TROUBLESHOOTING.md               (故障排除指南)
+- 一键安装.bat                    (批处理安装脚本)
+
+快速开始:
+1. 以管理员身份打开PowerShell
+2. 导航到此目录
+3. 运行: .\PowerShell_Config_Installer.ps1
+4. 重新启动PowerShell
+
+或者直接双击"一键安装.bat"文件
+
+支持的功能:
+- Linux命令别名 (touch, cat, ls, rm, mv, cp, etc.)
+- UTF-8编码支持
+- 彩色终端提示符
+- Git分支显示
+- 错误提示和建议
+
+系统要求:
+- Windows 7/8/10/11
+- PowerShell 3.0或更高版本 
